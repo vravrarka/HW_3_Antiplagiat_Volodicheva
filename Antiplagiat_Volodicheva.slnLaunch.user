@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "APIGateway\\APIGateway.AppHost\\APIGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "ApiGateway"
+      },
+      {
+        "Path": "FileAnalysisService\\FileAnalysisService.AppHost\\FileAnalysisService.csproj",
+        "Action": "Start",
+        "DebugTarget": "FileAnalysisService"
+      },
+      {
+        "Path": "FileStorageService\\FileStorageService.AppHost\\FileStorageService.csproj",
+        "Action": "Start",
+        "DebugTarget": "FileStorageService"
+      }
+    ]
+  }
+]
