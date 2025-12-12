@@ -42,7 +42,6 @@
 
 Для работы программы должны быть установлены следующие пакеты: 
  - Docker.DotNet
- - Microsoft.Graph.Core
  - Swashbuckle.AspNetCore.Swagger
  - Swashbuckle.AspNetCore.SwaggerGen
  - Swashbuckle.AspNetCore.SwaggerUI
